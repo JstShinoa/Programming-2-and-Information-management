@@ -1,3 +1,3 @@
-Ranil Posecion
-"/n"Psalmer G. Clarabal
-"/n"Charles andrei Calunsod
+1.Ranil Posecion
+2.Psalmer G. Clarabal
+3.Charles andrei Calunsod
