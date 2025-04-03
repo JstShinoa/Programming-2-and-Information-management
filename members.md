@@ -1,5 +1,5 @@
-1.Ranil Posecion
+Ranil Posecion
 
-2.Psalmer G. Clarabal
+Psalmer G. Clarabal
 
-3.Charles andrei Calunsod
+Charles andrei Calunsod
